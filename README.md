@@ -1,3 +1,3 @@
 # universityERP
 *****under coding******
-![alt text](http://url/to/img.png)
+![DASHBOARD](https://github.com/MartMbithi/universityERP/blob/master/screenshots/dashboard.png)
